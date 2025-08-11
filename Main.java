@@ -43,5 +43,14 @@ public class Main implements Directions{
     r.putBeeper();
     r.move();
     r.putBeeper();
+	r.turnLeft();
+    r.turnLeft();
+    r.move();
+    r.move();
+    r.move();
+    r.move();
+    r.move();
+    r.turnLeft();
   }
+
 }
